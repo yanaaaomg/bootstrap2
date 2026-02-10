@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+.bg-primary {
+    background-color: rgb(53, 6, 6) !important;
+}
+.border {
+    background-color: rgba(53, 6, 6, 0.485);
+}
